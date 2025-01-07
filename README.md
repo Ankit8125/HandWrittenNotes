@@ -1,4 +1,5 @@
 # HandWrittenNotes
-Backup of All my handwritten notes. Learn and innovate :)
+A curated collection of all my handwritten notes. Let's Learn and innovate :)
 
-You might need to download the file, as pdf preview is not available! Sorry guys !!
+- Files are available in PDF format for easy download and offline access.
+- For large files, download the PDF if preview isn’t available.
